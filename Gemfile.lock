@@ -32,7 +32,6 @@ GEM
     hashie (1.2.0)
     mongo (1.7.0)
       bson (~> 1.7.0)
-    msgpack (0.4.7)
     multi_json (1.3.6)
     multipart-post (1.1.5)
     nokogiri (1.5.5)
@@ -49,4 +48,3 @@ DEPENDENCIES
   debugger
   github_api
   mongo
-  msgpack
